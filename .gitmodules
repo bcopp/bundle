@@ -1,0 +1,9 @@
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "rust.vim"]
+	path = rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar

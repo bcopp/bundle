@@ -1,0 +1,18 @@
+= nvim-bundle
+A repository of essential *neo-vim* plugins as git submodules.
+This bundle assumes you have installed pathogen. See: https://github.com/tpope/vim-pathogen
+
+= Downloading
+`git clone --recursive https://github.com/bcopp/bundle.git .config/nvim/`
+
+= Adding a submodule
+
+----
+cd ~/.config/nvim/bundle/
+git submodule add https://github.com/user/program.git
+----
+
+= Updating plugins
+`git submodule update --recursive --remote`
+
+
